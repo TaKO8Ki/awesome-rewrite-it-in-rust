@@ -24,6 +24,7 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
   - [Linters](#linters)
 - [Libraries](#libraries)
   - [Email](#email)
+  - [Message Queue](#message-queue)
 
 ## Applications
 
@@ -278,3 +279,9 @@ I renamed the repository to "Awesome Alternatives in Rust". The original name wa
 #### [mjml](https://github.com/mjmlio/mjml)
 
 * [mrml](https://github.com/jdrouet/mrml) - Blazing fast reimplementation of mjml in Rust (~200x faster)
+
+### Message Queue
+
+#### [rocketmq-rust](https://github.com/mxsm/rocketmq-rust)
+
+* [rocketmq-rust](https://github.com/mxsm/rocketmq-rust) - Apache RocketMQ Rust implementation.Faster safer and with lower memory usage.
